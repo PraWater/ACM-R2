@@ -1,4 +1,5 @@
 # ACM-R2
 
-Started learning Kotlin and Android studio from the given link to Google developers  
-Built 2 basic apps (Happy birthday & Dice Roller) by following the tutorial  
+Learnt basic Kotlin from the given link  
+Built a birthday card app to learn how to place text and images in an app
+Built a basic app that rolls a dice when a button is pressed
